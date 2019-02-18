@@ -4,4 +4,4 @@
 
 ## Test screenshot attached FYI
 
-![Test result](src/test/resources/test_screenshot.png)
+![Test result](./src/test/resources/test_screenshot.png)
